@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5C9569-B11F-440E-B88C-E870885B3B89}|BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj|c:\\trabalhos para postar\\cleanarchitecturedddfromscratch\\buberdinner\\buberdinner.infrastructure\\buberdinner.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E5C9569-B11F-440E-B88C-E870885B3B89}|BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj|solutionrelative:buberdinner.infrastructure\\buberdinner.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7C8A10-8ACF-43A1-B786-A9A6FE119B45}|BuberDinner.Application\\BuberDinner.Application.csproj|c:\\trabalhos para postar\\cleanarchitecturedddfromscratch\\buberdinner\\buberdinner.application\\buberdinner.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E7C8A10-8ACF-43A1-B786-A9A6FE119B45}|BuberDinner.Application\\BuberDinner.Application.csproj|solutionrelative:buberdinner.application\\buberdinner.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuberDinner.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+              "ToolTip": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+              "RelativeToolTip": "BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T19:42:30.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuberDinner.Application.csproj",
+              "DocumentMoniker": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+              "RelativeDocumentMoniker": "BuberDinner.Application\\BuberDinner.Application.csproj",
+              "ToolTip": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+              "RelativeToolTip": "BuberDinner.Application\\BuberDinner.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T19:42:20.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

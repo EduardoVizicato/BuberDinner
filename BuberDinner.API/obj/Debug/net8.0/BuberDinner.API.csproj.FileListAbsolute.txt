@@ -1,0 +1,81 @@
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\bin\Debug\net8.0\appsettings.json
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.API.exe
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.API.deps.json
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.API.runtimeconfig.json
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.API.dll
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.API.pdb
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.Application.dll
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.Contracts.dll
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.Domain.dll
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.Infrastructure.dll
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.Application.pdb
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.Contracts.pdb
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.Infrastructure.pdb
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.Domain.pdb
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.AssemblyInfo.cs
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\staticwebassets\msbuild.BuberDinner.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\staticwebassets\msbuild.build.BuberDinner.API.props
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BuberDinner.API.props
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BuberDinner.API.props
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\scopedcss\bundle\BuberDinner.API.styles.css
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDin.DF70F1CA.Up2Date
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.dll
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\refint\BuberDinner.API.dll
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.pdb
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.genruntimeconfig.cache
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\ref\BuberDinner.API.dll
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.API.staticwebassets.endpoints.json
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\eduar\source\repos\BuberDinner\BuberDinner.API\obj\Debug\net8.0\staticwebassets\msbuild.BuberDinner.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\appsettings.Development.json
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\appsettings.json
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.API.staticwebassets.endpoints.json
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.API.exe
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.API.deps.json
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.API.runtimeconfig.json
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.API.dll
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.API.pdb
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.Application.dll
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.Contracts.dll
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.Domain.dll
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.Infrastructure.dll
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.Application.pdb
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.Contracts.pdb
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.Infrastructure.pdb
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\BuberDinner.Domain.pdb
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.csproj.AssemblyReference.cache
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.AssemblyInfoInputs.cache
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.AssemblyInfo.cs
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.csproj.CoreCompileInputs.cache
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.MvcApplicationPartsAssemblyInfo.cache
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\scopedcss\bundle\BuberDinner.API.styles.css
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\staticwebassets\msbuild.BuberDinner.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\staticwebassets\msbuild.BuberDinner.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\staticwebassets\msbuild.build.BuberDinner.API.props
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BuberDinner.API.props
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BuberDinner.API.props
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDin.DF70F1CA.Up2Date
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.dll
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\refint\BuberDinner.API.dll
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.pdb
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.genruntimeconfig.cache
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\ref\BuberDinner.API.dll
