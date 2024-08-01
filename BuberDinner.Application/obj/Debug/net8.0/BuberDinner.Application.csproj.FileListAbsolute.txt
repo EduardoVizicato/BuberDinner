@@ -28,3 +28,4 @@ C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner
 C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\refint\BuberDinner.Application.dll
 C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.pdb
 C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\ref\BuberDinner.Application.dll
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.sourcelink.json

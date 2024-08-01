@@ -79,3 +79,5 @@ C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner
 C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.pdb
 C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.genruntimeconfig.cache
 C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\ref\BuberDinner.API.dll
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\obj\Debug\net8.0\BuberDinner.API.sourcelink.json
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
