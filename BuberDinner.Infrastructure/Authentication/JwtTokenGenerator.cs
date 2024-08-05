@@ -17,7 +17,7 @@ namespace BuberDinner.Infrastructure.Authentication
         {
             var signingCredentials = new SigningCredentials(
             new SymmetricSecurityKey(
-                Encoding.UTF8.GetBytes("a-much-longer-super-secret-key-that-is-256-bits-long")),
+                Encoding.UTF8.GetBytes("super-secret-key")),
                 SecurityAlgorithms.HmacSha256
         );
 
