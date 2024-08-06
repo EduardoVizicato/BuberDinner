@@ -86,3 +86,4 @@ C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner
 C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
 C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\trabalhos para postar\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.API\\BuberDinner.API.csproj": {}
+    "c:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.API\\BuberDinner.API.csproj": {}
   },
   "projects": {
-    "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.API\\BuberDinner.API.csproj": {
+    "c:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.API\\BuberDinner.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.API\\BuberDinner.API.csproj",
+        "projectUniqueName": "c:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.API\\BuberDinner.API.csproj",
         "projectName": "BuberDinner.API",
-        "projectPath": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.API\\BuberDinner.API.csproj",
+        "projectPath": "c:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.API\\BuberDinner.API.csproj",
         "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.API\\obj\\",
+        "outputPath": "c:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-                "projectPath": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+              "c:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+                "projectPath": "c:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
               },
               "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
                 "projectPath": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
@@ -100,14 +100,14 @@
         }
       }
     },
-    "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+    "c:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "projectUniqueName": "c:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
         "projectName": "BuberDinner.Application",
-        "projectPath": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "projectPath": "c:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
         "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Application\\obj\\",
+        "outputPath": "c:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -129,8 +129,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
-                "projectPath": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
+              "c:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+                "projectPath": "c:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
               }
             }
           }
@@ -268,14 +268,14 @@
         }
       }
     },
-    "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+    "c:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectUniqueName": "c:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "projectName": "BuberDinner.Domain",
-        "projectPath": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectPath": "c:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Domain\\obj\\",
+        "outputPath": "c:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -376,8 +376,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-                "projectPath": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+              "c:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+                "projectPath": "c:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
               }
             }
           }
@@ -397,6 +397,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[8.0.1, )"
