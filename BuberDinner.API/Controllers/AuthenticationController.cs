@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace BuberDinner.API.Controllers
 {
     [ApiController]
-    [Route("auth")]
+    [Route("auth")] 
     public class AuthenticationController(IAuthenticationService authenticationService) : ControllerBase
     {
         private readonly IAuthenticationService _service = authenticationService;

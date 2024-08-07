@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EF1635B9-38D9-468D-88E7-CFA9DB9AA9FE}|BuberDinner.API\\BuberDinner.API.csproj|c:\\trabalhos para postar\\cleanarchitecturedddfromscratch\\buberdinner\\buberdinner.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1635B9-38D9-468D-88E7-CFA9DB9AA9FE}|BuberDinner.API\\BuberDinner.API.csproj|solutionrelative:buberdinner.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E5C9569-B11F-440E-B88C-E870885B3B89}|BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj|c:\\trabalhos para postar\\cleanarchitecturedddfromscratch\\buberdinner\\buberdinner.infrastructure\\buberdinner.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0E5C9569-B11F-440E-B88C-E870885B3B89}|BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj|solutionrelative:buberdinner.infrastructure\\buberdinner.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.API\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "BuberDinner.API\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.API\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "BuberDinner.API\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T23:04:00.597Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -38,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BuberDinner.Infrastructure.csproj",
               "DocumentMoniker": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
               "RelativeDocumentMoniker": "BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BuberDinner.Application.csproj",
               "DocumentMoniker": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
               "RelativeDocumentMoniker": "BuberDinner.Application\\BuberDinner.Application.csproj",
