@@ -19,7 +19,7 @@ namespace BuberDinner.Infrastructure.Authentication
         private readonly JwtSettings _jwtSettings;
         private readonly IDateTimeProvider _dateTimeProvider;
 
-        public JwtTokenGenerator(IDateTimeProvider dateTimeProvider, IOptions<JwtSettings> jwtOptions)
+        public JwtTokenGenerator(IDateTimeProvider dateTimeProvider, IOptions<JwtSettings> jwtOptions) // ** This is used to access the JWT settings, which are stored in the JwtSettings object.
         {
             _dateTimeProvider = dateTimeProvider;
             _jwtSettings = jwtOptions.Value;
@@ -34,10 +34,10 @@ namespace BuberDinner.Infrastructure.Authentication
         );
 
             var claims = new []{
-                new Claim(JwtRegisteredClaimNames.Sub, user.Id.ToString()),
-                new Claim(JwtRegisteredClaimNames.GivenName, user.FirstName),
-                new Claim(JwtRegisteredClaimNames.FamilyName, user.LastName),
-                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
+                new Claim(JwtRegisteredClaimNames.Sub, user.Id.ToString()), // ** Sub (subject): The user's ID as a string.
+                new Claim(JwtRegisteredClaimNames.GivenName, user.FirstName), // ** GivenName: The user's first name.
+                new Claim(JwtRegisteredClaimNames.FamilyName, user.LastName), // ** FamilyName: The user's last name.
+                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()), // ** Jti (JWT ID): A unique identifier for the token, generated using a GUID.
 
             };
 
@@ -48,7 +48,7 @@ namespace BuberDinner.Infrastructure.Authentication
             claims : claims, 
             signingCredentials : signingCredentials);
 
-            return new JwtSecurityTokenHandler().WriteToken(securityToken);
+            return new JwtSecurityTokenHandler().WriteToken(securityToken); // ** it uses a JwtSecurityTokenHandler to write the security token to a string, which is the generated JWT token.
         }
     }
 }

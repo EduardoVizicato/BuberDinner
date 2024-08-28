@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lNUmwcdB4tA=",
+  "dgSpecHash": "+Ss5dZQaUms=",
   "success": true,
   "projectFilePath": "C:\\trabalhos para postar\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\eduar\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",

@@ -8,15 +8,15 @@ using Microsoft.AspNetCore.Mvc.Infrastructure;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Microsoft.Extensions.Options;
 
-namespace BuberDinner.API.Errors
+namespace BuberDinner.API.Common.Errors
 {
 public class BuberDinnerProblemDetailsFactory : ProblemDetailsFactory
 {
     private readonly ApiBehaviorOptions _options;
-    private readonly Action<ProblemDetailsContext>? _configure;
+    private readonly Action<ProblemDetailsContext>? _configure; // ** an optional action that can be used to customize problem details.
     public BuberDinnerProblemDetailsFactory(
         IOptions<ApiBehaviorOptions> options,
-        IOptions<ProblemDetailsOptions>? problemDetailsOptions = null)
+        IOptions<ProblemDetailsOptions>? problemDetailsOptions = null) // **  This is an optional instance of ProblemDetailsOptions, which is used to customize problem details.    
     {
         _options = options?.Value ?? throw new ArgumentNullException(nameof(options));
         _configure = problemDetailsOptions?.Value?.CustomizeProblemDetails;
@@ -43,7 +43,7 @@ public class BuberDinnerProblemDetailsFactory : ProblemDetailsFactory
             Instance = instance,
         };
 
-        ApplyProblemDetailsDefaults(httpContext, problemDetails, statusCode.Value);
+        ApplyProblemDetailsDefaults(httpContext, problemDetails, statusCode.Value); // ** to set default values for the problem details.
 
         return problemDetails;
     }
@@ -91,13 +91,14 @@ public class BuberDinnerProblemDetailsFactory : ProblemDetailsFactory
             problemDetails.Type ??= clientErrorData.Link;
         }
 
-        var traceId = Activity.Current?.Id ?? httpContext?.TraceIdentifier;
+        var traceId = Activity.Current?.Id ?? httpContext?.TraceIdentifier; // ** This line retrieves the trace ID from either the current Activity instance (if available) or the HttpContext instance. The ?? operator ensures that if Activity.Current?.Id is null, the httpContext?.TraceIdentifier value is used instead.
+
         if (traceId != null)
         {
             problemDetails.Extensions["traceId"] = traceId;
         }
-        problemDetails.Extensions.Add("customProperty", "customValue");
-        _configure?.Invoke(new() { HttpContext = httpContext!, ProblemDetails = problemDetails });
+        problemDetails.Extensions.Add("customProperty", "customValue"); // ** This line adds a custom property with the key "customProperty" and value "customValue" to the Extensions dictionary of the problemDetails instance.
+        _configure?.Invoke(new() { HttpContext = httpContext!, ProblemDetails = problemDetails }); // ** This line invokes the _configure delegate (if it's not null) with a new instance of an anonymous object containing the HttpContext and ProblemDetails instances. This allows for further customization of the problem details instance.
     }
 }
 

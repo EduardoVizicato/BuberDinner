@@ -24,9 +24,10 @@ namespace BuberDinner.Application.Services.Authentication
         {
             // 1 validate user exists
 
+            // ** is not User user: This is the pattern matching part. The is keyword is used to check if the result of the GetUserByEmail method is not null and can be assigned to a variable of type User. The not keyword is used to negate the result, so if the result is null, the condition is true. If the result is not null, it's assigned to the user variable.
             if(_userRepository.GetUserByEmail(email) is not User user){
                 throw new Exception("The User with given email doesn't exists");
-            }
+            } 
 
             // 2 validate password
 
